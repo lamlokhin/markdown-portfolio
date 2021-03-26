@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+- Food
+  - Sushi
+  - Ramen
+  - Scrambled Eggs
+- Sports
+  - Bandminton
+  - Jogging
+- Hobbies
+  - Computers
+  - Anime
