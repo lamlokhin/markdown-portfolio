@@ -1,0 +1,10 @@
+- Food
+  - Sushi
+  - Ramen
+  - Scrambled Eggs
+- Sports
+  - Bandminton
+  - Jogging
+- Hobbies
+  - Computers
+  - Anime
