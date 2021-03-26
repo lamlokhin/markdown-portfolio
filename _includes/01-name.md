@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+#This is my name
+###Ryan LAM Lok Hin
+It is my name since my birth
